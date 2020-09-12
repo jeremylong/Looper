@@ -2,6 +2,9 @@
 
 [![Eurorack Looper](https://img.youtube.com/vi/Ur3xYh8PTQg/0.jpg)](https://www.youtube.com/watch?v=Ur3xYh8PTQg)
 
+## Original blog post
+
+http://www.cutlasses.co.uk/tech/looper-version-1-complete/
 
 ## What is it?
 
